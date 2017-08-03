@@ -1,7 +1,7 @@
 # Python-Twitter-Bot
 Python Twitter Bot 
 
-1.To use this bot,you need to have Python 3 installed .This bot uses twweepy module.You can install tweepy by using pip.To install tweepy, use this command :
+1.To use this bot,you need to have Python 3 installed on your system.This bot uses tweepy module.You can install tweepy by using pip.To install tweepy, use this command :
 
  $ pip install tweepy
 
@@ -31,13 +31,15 @@ Python Twitter Bot
 
 $ python twitterbot_retweet.py
 
-![Twitter Retweet Bot] (https://github.com/gauravssnl/Python-Twitter-Bot/blob/master/twitter%20retweet%20bot.png)
+![Twitter Retweet Bot](https://github.com/gauravssnl/Python-Twitter-Bot/blob/master/twitter%20retweet%20bot.png)
 
 
 
 9.You can use any desired hastag(such as #javascipt ) .Just edit hastag #python in twitterbot_retweet.py file with whatever you want.
 
+
 10. You can also edit code if you do not want your bot to follow  users or you do not want your bot  to like tweets.
+
 
 11.You can also deploy  these bots on online based servers if you want to run the bot 24 hours continously.Take care of sleep/delay if you run bot the whole day.You should try to use large sleep time.
 
