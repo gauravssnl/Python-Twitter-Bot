@@ -18,6 +18,9 @@ Python Twitter Bot
 
 
  $ python twitterbot_text.py 
+ 
+ ![Twitter Text Bot Screenshot](https://github.com/gauravssnl/Python-Twitter-Bot/blob/master/twitter%20text%20bot.png)
+
 
 
 6.You can also use any file instead of sample.txt . To do that,you need to open twitterbot_text.py file and edit this line my_file=open('sample.txt','r') and enter your desired filename instead of 'sample.txt' .
@@ -25,11 +28,11 @@ Python Twitter Bot
 
 7.Enjoy the service of Twitter Bot which tweets texts of a file .You can also alter sleep time in script as you wish,
 
-![Twitter Text Bot Screenshot](https://github.com/gauravssnl/Python-Twitter-Bot/blob/master/twitter%20text%20bot.png)
 
 8.Use twitterbot_retweet.py file for a Twitter bot which retweets tweets based on particular hastag (scrpt provided here use #python ),like tweets and follow the user who tweeted it .To run twitterbot_retweet.py ,use this command :
 
 $ python twitterbot_retweet.py
+
 
 ![Twitter Retweet Bot](https://github.com/gauravssnl/Python-Twitter-Bot/blob/master/twitter%20retweet%20bot.png)
 
