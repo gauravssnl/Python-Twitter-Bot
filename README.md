@@ -30,6 +30,7 @@ Python Twitter Bot
 
 
 
+# Twitter bot which retweets,like,and follow
 
 8.Use twitterbot_retweet.py file for a Twitter bot which retweets tweets based on particular hastag (script provided here use #python ),like tweets and follow the user who tweeted it .Set your desired Bot settings such as QUERY,LIKE,FOLLOW in config.py file  To run twitterbot_retweet.py ,use this command :
 
