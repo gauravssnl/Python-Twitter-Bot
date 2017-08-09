@@ -12,7 +12,7 @@ print("Bot Settings")
 print("Like Tweets :", LIKE)
 print("Follow users :", FOLLOW)
 
-for tweet in tweepy.Cursor(api.search, q='#python').items():
+for tweet in tweepy.Cursor(api.search, q=QUERY).items():
     try:
         print('\nTweet by: @' + tweet.user.screen_name)
 
